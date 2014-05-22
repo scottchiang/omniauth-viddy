@@ -64,9 +64,6 @@ def self.find_for_viddy_oauth(access_token, signed_in_resource=nil)
     user
 end
 ```
-## Configuration
-
-You can configure several options, which you pass in to the `provider` method via a hash:
 
 ## Auth Hash
 
