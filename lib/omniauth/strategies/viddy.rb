@@ -23,7 +23,7 @@ module OmniAuth
       end
 
       credentials do
-        {'access_token' => access_token.token}
+        {'token' => access_token.token}
       end
 
       uid { raw_info['id'] }

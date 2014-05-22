@@ -82,7 +82,7 @@ Here's an example of an authentication hash available in the callback by accessi
     "name"=>"sean@fullscreen.net"
   },
   "credentials"=>{
-    "access_token"=>"..."
+    "token"=>"..."
   },
   "extra"=>{
     "user_info"=>{
