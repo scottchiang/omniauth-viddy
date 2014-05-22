@@ -1,5 +1,9 @@
 # OmniAuth Viddy Strategy
 
+[![Gem Version](http://img.shields.io/gem/v/omniauth-viddy.svg)][gem]
+
+[gem]: https://rubygems.org/gems/omniauth-viddy
+
 Strategy to authenticate with Viddy via OAuth2 in OmniAuth.
 
 ## Installation
